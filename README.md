@@ -1,4 +1,5 @@
-Como Rodar
+Como Rodar: 
+
 1 - Clone o repositório:
 Copiar código
 git clone https://github.com/seu-usuario/analisador-vendas-livros.git
