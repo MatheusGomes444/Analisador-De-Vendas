@@ -10,4 +10,4 @@ pip install -r requirements.txt
 
 3 - Execute o aplicativo Streamlit:
 Copiar código
-streamlit run app.py
+streamlit run main.py
